@@ -1,6 +1,6 @@
 topic: [[<!-- topicName -->]]
 links: 
-tags: #permanent-note 
+tags: #page-note 
 
 ---
 
