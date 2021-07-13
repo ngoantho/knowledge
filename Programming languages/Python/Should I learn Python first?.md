@@ -1,4 +1,4 @@
-topic: [Python](Python.md)
+topic: [📍Python](📍Python.md)
 links: 
 tags: #page-note 
 

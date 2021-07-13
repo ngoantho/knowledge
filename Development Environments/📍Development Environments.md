@@ -1,0 +1,3 @@
+A development environment is a combination of a [[text editor]] and a runtime environment. The runtime environment provides the method for executing code.
+
+A text editor can be as simple as Notepad running on Windows or a more complicated [Text Editors|](Text%20Editors/📍Text%20Editors.md) A couple of common IDEs for Python development are [PyCharm](https://www.jetbrains.com/pycharm/) and [VSCode](https://code.visualstudio.com/), both of which runs on any major 

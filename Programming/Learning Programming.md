@@ -1,4 +1,4 @@
-topic: [Programming](Programming.md)
+topic: [📍Programming](📍Programming.md)
 links: 
 tags: #page-note 
 
@@ -7,7 +7,7 @@ tags: #page-note
 Learning to program is about understanding how to translate thoughts into source code that can be executed on computers to achieve one or more goals.
 
 There are many steps in learning how to program, including
-1. setting up a [index](../Development%20Environments/Development%20Environments.md)
+1. setting up a [index](../Development%20Environments/📍Development%20Environments.md)
 2. selecting a programming language
 3. understanding the syntax and commands for the language
 4. writing code in the language, often using libraries and framewroks
@@ -48,4 +48,4 @@ Working on practice programming challenges and studying their solutions in Pytho
     
 -   [TeachCraft](https://teachcraft.net/) combines Minecraft with Python to learn coding.
 
-What editor should I use? -> [Development Environments](../Development%20Environments/Development%20Environments.md)
+What editor should I use? -> [Development Environments](../Development%20Environments/📍Development%20Environments.md)
